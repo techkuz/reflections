@@ -14,3 +14,10 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches will be useful for example if we make 2nd and 3rd part of software, or we do different-languages versions. In that way, having master branch, not afraid of messing it up, we are able to further develop code in other branches.
 
+How do the diagrams help you visualize the branch structure?
+
+Each branch is visible and it is possible to track parents, as well as commits that might get lost.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We are having one branch, it is represented with two arrows, as it includes all commits two branches had.

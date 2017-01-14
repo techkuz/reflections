@@ -21,3 +21,7 @@ Each branch is visible and it is possible to track parents, as well as commits t
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 We are having one branch, it is represented with two arrows, as it includes all commits two branches had.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatically merging is faster, however it might make some mistakes.

@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	One way would be to use other control version systems as SVN. Or other one-time tools, such as google Docs. However as it was stated in the first lectures of this MOOC course, all of them have their pros and cons. GitHub and Git I guess are the tools to be used today when collaborating with others.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Separate branch might be a good idea for for trying new(possibly experimental) features.
